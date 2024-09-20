@@ -6,4 +6,7 @@ Topics to cover:
 4. Problem: Most frequent character
 5. Handling ranges
 6. Problem: Maximum platform needed
-7.   
+7. A technique to approach problems
+8. Problem: Subarray sum divisible by K
+9. Sliding window 
+10. Problem: Finding k beauty of a number 
