@@ -1,7 +1,3 @@
-Here’s a simple template for a README file that explains flowcharts and pseudocode, their importance, and how they are used in the development process:
-
----
-
 # Flowcharts and Pseudocode in Software Development
 
 ## Table of Contents
